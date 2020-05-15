@@ -21,3 +21,14 @@
   - 4.3 Cash Flow  
 - 5 Conclusion
 #
+1 Introduction  
+The management of an educational institute which is located in Islamabad, Pakistan decided to install solar system to provide uninterrupted power supply to one of educational blocks named EE department under keeping the considerations below:  
+- 1. Cheap electricity is one of the prime motives behind implementing any grid tied solar system.  
+- 2. As we gain cheap electricity from solar system selling extra power to utility is common thing. It helps us to convert extra energy into cash.  
+- 3. Uninterrupted power supply is an important requirement of any institution to ensure smooth running of operational work.  
+- 4. Educational activities.  
+2 Load  
+Load detail was provided by educational institute where the most of equipment used in sun hours. Some of
+lights usually used at night for lightening beside that some survilience devices also operates for 24 hours.
+Connected load and load consumptions details are given below. The loadd to operated through solar
+system includes lite loads. 
